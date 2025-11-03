@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Meus Projetos
-🔹 [GRAY WOLF]([https://github.com/ahr7onix/LOBO-CINZA]) — Servidor customizado  
+🔹 [GRAY WOLF]([https://github.com/ahr7onix/LOBO-CINZA]) — Serviços customizado  
 🔹 [Chorna-Reais]([https://github.com/ahr7onix/Chorna-Reais]) — Experimento de game  
 
 ---
